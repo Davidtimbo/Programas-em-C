@@ -31,4 +31,5 @@ Código que fiz para minha namorada quanto precisa para passar
            printf("\nVocê precisa de >> %.2f << já passou!! Só estudar mais um pouco "
               "pra confirmar!",
                 x3);
-  }
+       }
+  
